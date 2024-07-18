@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-items {
+  border-radius: 15px;
+  padding: 10px;
+  list-style-type: none;
+}
+.imagesetting {
+  width: 300px;
+  flex-grow: 0;
+}
+.paragraph {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+}

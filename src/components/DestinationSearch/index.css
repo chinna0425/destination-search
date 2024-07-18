@@ -1,0 +1,18 @@
+.search-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.search-box {
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+}
+.search-img {
+  height: 30px;
+  width: 30px;
+}
